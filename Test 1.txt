@@ -1,1 +1,5 @@
 This is a test file with text in it. If you read this good luck :)
+I added this line from github.com
+This one came from github too
+And this one
+But not this one (jk)
